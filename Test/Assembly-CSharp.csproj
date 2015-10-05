@@ -48,6 +48,7 @@
   <ItemGroup>
      <Compile Include="Assets\ifstatements.cs" />
      <Compile Include="Assets\ifstatements2.cs" />
+     <Compile Include="Assets\loops.cs" />
      <Compile Include="Assets\variablesandfunctions.cs" />
  <Reference Include="UnityEngine.Analytics">
  <HintPath>/Applications/Unity/Unity.app/Contents/UnityExtensions/Unity/UnityAnalytics/UnityEngine.Analytics.dll</HintPath>
