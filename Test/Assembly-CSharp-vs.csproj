@@ -47,6 +47,7 @@
   </ItemGroup>
   <ItemGroup>
      <Compile Include="Assets\classes.cs" />
+     <Compile Include="Assets\enums.cs" />
      <Compile Include="Assets\ifstatements.cs" />
      <Compile Include="Assets\ifstatements2.cs" />
      <Compile Include="Assets\loops.cs" />
