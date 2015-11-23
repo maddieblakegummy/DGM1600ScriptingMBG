@@ -46,6 +46,8 @@
   </ItemGroup>
   <ItemGroup>
      <Compile Include="Assets\classes.cs" />
+     <Compile Include="Assets\duckhealth.cs" />
+     <Compile Include="Assets\duckspawn.cs" />
      <Compile Include="Assets\enums.cs" />
      <Compile Include="Assets\ifstatements.cs" />
      <Compile Include="Assets\ifstatements2.cs" />
